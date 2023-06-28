@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Workout App</string>
+    <string name="login" />
+    <string name="password" />
+    <string name="Password" />
+    <string name="username">Username</string>
+    <string name="Login">Login</string>
+    <string name="register_here">Register here</string>
+    <string name="todo">TODO</string>
+    <string name="not_registered_yet">Not registered yet</string>
+    <string name="Log">Login</string>
+    <string name="Username">Username</string>
+    <string name="passwords">Password</string>
+    <string name="register">Register</string>
+    <string name="Register">Register</string>
+    <string name="already_sign_up">Already sign up?</string>
+    <string name="login_here">Login here</string>
+    <string name="core_workout">Core Workout</string>
+    <string name="upper_body_workout">Upper Body Workout</string>
+    <string name="lower_body_workout">Lower Body Workout</string>
+    <string name="find_the_nearest_park">Find the Nearest Park</string>
+    <string name="select_a_workout">Select a workout</string>
+    <string name="find_the_nearest_gym">Find the Nearest Gym</string>
+    <string name="how_to_1">
+        Targets all of the trunk from the waist up,
+        helping activate muscles that are tired by office life. Performed as part of
+        your daily fitness routine it will help you avoid that feeling of being slow
+        and heavy in your own body.
+    </string>
+
+    <string name="how_to_2">
+        Lower body stretches offer several benefits for flexibility, mobility,
+        and overall well-being.  Regular lower body stretching can help increase
+        the flexibility of your muscles, tendons, and ligaments.
+         Flexible muscles and joints are less prone to injuries such as strains,
+        sprains, and muscle pulls. Lower body stretches help maintain the suppleness and elasticity of your muscles, reducing the risk of injury during physical activities or sports
+
+    </string>
+
+    <string name="how_to_3">
+        Involves moving the body through a range of motion to warm up
+        the muscles and prepare them for
+        exercise. The goal of dynamic stretching is to increase muscle temperature and
+        reduce stiffness to improve performance and prevent injury
+        \n\nFind more here -->\nhttps://fitnessprogramer.com/warm-up-exercises/ </string>
+
+
+    <string name="how_to_4">
+        Involves holding a stretch position
+        for a period of time, usually 10-30 seconds, while the muscle is relaxed.
+       </string>
+    <string name="name_placeholder" />
+    <string name="difficulty_placeholder" />
+    <string name="detail_placeholder" />
+    <string name="reps_placeholder" />
+    <string name="vid_placeholder" />
+    <string name="stretches">Stretches</string>
+    <string name="stretches1">STRETCHES</string>
+
+    <string-array name="exercise_name">
+        <item>Hammer Curl</item>
+        <item>Poundstone Curl</item>
+        <item>Overhead Press</item>
+        <item>Bicep Curl</item>
+        <item>Farmers Walk</item>
+    </string-array>
+
+    <string-array name="exercise_image">
+        <item>@drawable/img_hammercurl</item>
+        <item>@drawable/img_poundstonecurls</item>
+        <item>@drawable/img_overheadpress</item>
+        <item>@drawable/img_bicepcurl</item>
+        <item>@drawable/img_farmerswalk</item>
+    </string-array>
+
+    <string-array name="difficulty">
+        <item>Difficulty: 3/5 </item>
+        <item>Difficulty: 2/5 </item>
+        <item>Difficulty: 4/5 </item>
+        <item>Difficulty: 1/5 </item>
+        <item>Difficulty: 5/5  </item>
+    </string-array>
+
+    <string-array name="description">
+    <item>Hammer curls are biceps curls performed with your hands facing each other. They’re beneficial to add mass to your arms and can help
+        focus more attention on the short head of the biceps. They may be easier to tolerate than the traditional biceps curl.
+        While standing or sitting, hold dumbbells at your sides with your palms facing each other. Keep your back straight and your elbows against your sides.
+        Bend your elbows, bringing the dumbbells up toward your shoulders while keeping your upper arms in line with your trunk. Your palms will stay facing each other.
+        Pause for a 1–2 count, and then slowly lower the dumbbells back to the starting position at your sides.
+    </item>
+
+        <item> Grab a bar and hold it at your waist. Hold your hands in the middle of the bar and lift the bar up to your chest.
+        lower your arms down to your hips and repeat the process.
+    </item>
+
+        <item>The movement begins in the bottom position. Stand with your entire body tight and rigid. Hold a bar bell just above your upper chest,
+        hands slightly wider that shoulder width. Now think of an imaginary straight line drawn from the elbows through the wrists and hands and into the ceiling.
+        Press the bar up along this path as the elbows extend,
+        taking the same path back down to the starting position. Dumb bells and kettle bells are pressed similarly,
+        with one slight alteration. For some variations, the hands start in a neutral
+        position at the bottom. Start with the hands neutral in the bottom position. And slowly go back up
+    </item>
+
+        <item> To do a biceps curl with a dumbbell, hold a dumbbell with your palm facing upward. Slowly curl the weight up by bending your elbow, keeping your elbow close to your body. Then slowly lower the weight to the starting position. You\'ll feel tension in the muscles in the front of your upper arm. </item>
+
+        <item>
+         Stand with feet hips-width apart between two kettlebells. Hinge at hips and knees with flat back to bend down and grab the kettlebells\' handles.
+        Brace core and extend hips and knees to stand, with arms long and weights by sides. Draw shoulders down and back and stand tall to start.
+        Walk forward, taking small steps and moving weights as little as possible.
+
+
+    </item>
+
+    </string-array>
+
+    <string-array name="reps">
+        <item>Reps: 2–3 sets of 8–15 repetitions</item>
+        <item>Reps: 100 repetitions </item>
+        <item>Reps: 3 to 4 sets of 6 to 8 repetitions  </item>
+        <item>Reps: 4-6 sets of 6-12 repetitions </item>
+        <item>Reps: 2–3 sets of 8–15 repetitions </item>
+    </string-array>
+
+    <string-array name="video">
+        <item>https://youtu.be/TwD-YGVP4Bk</item>
+        <item>https://youtu.be/Ir89M0Wg1f4</item>
+        <item>https://youtu.be/F3QY5vMz_6I</item>
+        <item>https://youtu.be/ykJmrZ5v0Oo</item>
+        <item>https://youtu.be/rt17lmnaLSM</item>
+    </string-array>
+
+</resources>
